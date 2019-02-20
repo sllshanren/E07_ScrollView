@@ -14,6 +14,7 @@ import com.example.yuan.e05_listview.R;
 
 public class MainActivity extends AppCompatActivity {
     //声明引用
+    //是猎雷 修改
     private Button mIVButton;
     private Button mLVButton;
     private Button mGVButton;

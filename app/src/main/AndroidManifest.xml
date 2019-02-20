@@ -20,7 +20,8 @@
         </activity>
         <activity android:name="com.example.yuan.e06_gridview.ImageViewActivity" />
         <activity android:name="com.example.yuan.e06_gridview.ListView.ListViewActivity" />
-        <activity android:name="com.example.yuan.e06_gridview.GridView.GridViewActivity"></activity>
+        <activity android:name="com.example.yuan.e06_gridview.GridView.GridViewActivity" />
+        <activity android:name="com.example.yuan.e06_gridview.Main2Activity"></activity>
     </application>
 
 </manifest>
